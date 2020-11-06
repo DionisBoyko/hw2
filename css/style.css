@@ -1,0 +1,47 @@
+* {
+   box-sizing: border-box;
+}
+
+.wrapper {
+   max-width: 1100px;
+   margin: 50px auto;
+   font-size: 16px;
+   font-weight: 600;
+   line-height: 1.8;
+}
+
+.text-two {
+   margin-left: 108px;
+}
+
+.text-three {
+   margin-left: 123px;
+}
+
+.text-four {
+   margin-left: 210px;
+}
+
+.text-five {
+   margin-left: 261px;
+}
+
+.text-six {
+   margin-left: 320px;
+}
+
+.text-seven {
+   margin-left: 380px;
+}
+
+.text-eight {
+   margin-left: 468px;
+}
+
+.text-nine {
+   margin-left: 513px;
+}
+
+.text-ten {
+   margin-left: 572px;
+}
